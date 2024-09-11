@@ -9,7 +9,7 @@
   "routes": [
     {
       "src": "/my-flask-app/api/app.py",
-      "dest": "/my-flask-app/api/app.py"
+      "dest": "api/app.py"
     }
   ]
 }
