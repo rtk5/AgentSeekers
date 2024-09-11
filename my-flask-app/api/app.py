@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 # Define the flag
 FLAG = "FLAG{you_found_the_secret_flag}"
-
+#
 @app.route('/')
 def index():
     # Check the user-agent header from the request
